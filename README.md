@@ -13,7 +13,7 @@ label={"silence","unknown","yes","no","up","down","left","right","on","off","sto
 ```
 #### 参数设置与防止过拟合方法
 
-使用[Adam](https://zhuanlan.zhihu.com/p/32626442)方法并结合![](<a href="https://www.codecogs.com/eqnedit.php?latex=$l_2$" target="_blank">)正则
+使用[Adam](https://zhuanlan.zhihu.com/p/32626442)方法并结合<a href="https://www.codecogs.com/eqnedit.php?latex=$l_2$" target="_blank"><img src="https://latex.codecogs.com/png.latex?$l_2$" title="$l_2$" /></a>正则
 
 ![网络规模](https://images.gitee.com/uploads/images/2019/0806/171750_d378e551_4938113.png "Conv.png")
 
